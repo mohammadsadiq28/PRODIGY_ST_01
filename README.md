@@ -59,3 +59,21 @@ It can be used for:
 3. Compare actual results with expected results.
 4. Update pass/fail status based on your findings.
 
+This repository contains Task 01 of my Software Testing Internship with Prodigy InfoTech.
+
+As part of this internship, I completed multiple tasks covering different aspects of manual and automated testing. Below are all the repositories from my internship:
+
+📌 Internship Tasks
+
+Task 01 – PRODIGY_ST_01:https://github.com/mohammadsadiq28/PRODIGY_ST_01
+
+Task 02 – PRODIGY_ST_02:https://github.com/mohammadsadiq28/PRODIGY_ST_02
+
+Task 03 – PRODIGY_ST_03:https://github.com/mohammadsadiq28/PRODIGY_ST_03
+
+Task 04 – PRODIGY_ST_04:https://github.com/mohammadsadiq28/PRODIGY_ST_04
+
+Task 05 – PRODIGY_ST_05:https://github.com/mohammadsadiq28/PRODIGY_ST_05
+
+This way, all my internship work is linked together for easy reference ✅
+
